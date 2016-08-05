@@ -1,7 +1,7 @@
-CS231n Practice
+Stanford CS231N 2016 Winter Practice
 ===============
 
-My solution to CS231n: Convolutional Neural Networks for Visual Recognition
+Convolutional Neural Networks for Visual Recognition
 
 `Anaconda`, a scientific distribution of Python provides most of the dependencies.
 
